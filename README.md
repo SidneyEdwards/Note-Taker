@@ -3,11 +3,11 @@
 
 ## Use
 
-This application allows the user to create and save notes, as well as delete those notes. 
+This application allows the user to create and save notes, as well as delete notes. 
 
 
 
-Contributors
+## Contributors
 Sidney Edwards with the assistance of a gracious tutor.
 
 ## Mock-Up
